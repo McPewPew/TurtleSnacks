@@ -1,0 +1,10 @@
+## Interface: 12000
+## Title: TurtleSnacks
+## Notes: scruunch scruunch, it'll nibble your buttons.
+## Author: McPewPew
+## Version: 1.0
+## X-Website: https://github.com/McPewPew/TurtleSnacks
+## X-Date 2022-02-20
+
+
+TurtleSnacks.lua
